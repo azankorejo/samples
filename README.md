@@ -1,2 +1,1 @@
-# samples
-# websites i've made 💕 
+# samples of websites i've made 💕 
